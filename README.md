@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a Software Engineer on OTis Philippines Inc.<br>🌱 I’m currently learning native app development with web tools<br>💬 Ask me about React, Typescript, and Design Principles
+🔭 I’m currently working as a Software Engineer on OTis Philippines Inc.<br>🌱 I’m currently learning psychology behind user experience<br>💬 Ask me about React, Typescript, and Design Principles
 
 
 # 💻 Tech Stack:
